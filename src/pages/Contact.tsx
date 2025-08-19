@@ -130,7 +130,7 @@ const Contact = () => {
                     Get in Touch
                   </h2>
                   <p className="text-muted-foreground mb-8">
-                    Greenbrook Technologies is committed to supporting families 
+                    Yespanchi is committed to supporting families 
                     worldwide with comprehensive child safety solutions.
                   </p>
                 </div>
@@ -141,40 +141,17 @@ const Contact = () => {
                     <CardHeader>
                       <CardTitle className="flex items-center">
                         <Building className="h-6 w-6 text-primary mr-3" />
-                        US Office
+                        Main Office
                       </CardTitle>
                     </CardHeader>
                     <CardContent className="space-y-3">
                       <div className="flex items-start">
                         <MapPin className="h-5 w-5 text-muted-foreground mt-1 mr-3" />
                         <div>
-                          <p className="font-medium text-foreground">Greenbrook Technologies LLC</p>
-                          <p className="text-muted-foreground">1275 Bound Brook Road, Ste 2</p>
-                          <p className="text-muted-foreground">Middlesex, NJ 08846, USA</p>
-                        </div>
-                      </div>
-                      <div className="flex items-center">
-                        <Clock className="h-5 w-5 text-muted-foreground mr-3" />
-                        <span className="text-muted-foreground">Mon - Fri: 9:00 AM - 6:00 PM EST</span>
-                      </div>
-                    </CardContent>
-                  </Card>
-
-                  <Card className="shadow-safe">
-                    <CardHeader>
-                      <CardTitle className="flex items-center">
-                        <Globe className="h-6 w-6 text-safety mr-3" />
-                        India Office
-                      </CardTitle>
-                    </CardHeader>
-                    <CardContent className="space-y-3">
-                      <div className="flex items-start">
-                        <MapPin className="h-5 w-5 text-muted-foreground mt-1 mr-3" />
-                        <div>
-                          <p className="font-medium text-foreground">Greenbrook Technologies</p>
-                          <p className="text-muted-foreground">70, Gandhi Bazaar</p>
-                          <p className="text-muted-foreground">Basavanagudi, Bangalore</p>
-                          <p className="text-muted-foreground">Pin - 560 004, India</p>
+                          <p className="font-medium text-foreground">Yespanchi</p>
+                          <p className="text-muted-foreground">6A, 60, TM Maistry St, Extn</p>
+                          <p className="text-muted-foreground">Thiruvanmiyur, Chennai</p>
+                          <p className="text-muted-foreground">Tamil Nadu 600041</p>
                         </div>
                       </div>
                       <div className="flex items-center">
@@ -196,10 +173,10 @@ const Contact = () => {
                     <div>
                       <p className="font-medium text-foreground">Email Us</p>
                       <a 
-                        href="mailto:info@greenbrooktechnologies.net"
+                        href="mailto:info@yespanchi.com"
                         className="text-primary hover:underline"
                       >
-                        info@greenbrooktechnologies.net
+                        info@yespanchi.com
                       </a>
                     </div>
                   </div>
@@ -209,12 +186,12 @@ const Contact = () => {
                     <div>
                       <p className="font-medium text-foreground">Website</p>
                       <a 
-                        href="https://www.greenbrooktechnologies.net"
+                        href="https://www.yespanchi.com"
                         className="text-safety hover:underline"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        www.greenbrooktechnologies.net
+                        www.yespanchi.com
                       </a>
                     </div>
                   </div>

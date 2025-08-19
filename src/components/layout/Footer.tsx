@@ -19,7 +19,7 @@ const Footer = () => {
               safety ID kits to help keep your children safe and secure.
             </p>
             <div className="text-sm text-white/60">
-              <p>© 2024 Greenbrook Technologies LLC</p>
+              <p>© 2024 Yespanchi</p>
               <p>All rights reserved</p>
             </div>
           </div>
@@ -70,26 +70,18 @@ const Footer = () => {
               <div className="flex items-start space-x-2">
                 <MapPin className="h-5 w-5 text-white/60 mt-0.5 flex-shrink-0" />
                 <div className="text-sm text-white/80">
-                  <p className="font-medium">US Office</p>
-                  <p>1275 Bound Brook Road, Ste 2</p>
-                  <p>Middlesex, NJ 08846, USA</p>
-                </div>
-              </div>
-              <div className="flex items-start space-x-2">
-                <MapPin className="h-5 w-5 text-white/60 mt-0.5 flex-shrink-0" />
-                <div className="text-sm text-white/80">
-                  <p className="font-medium">India Office</p>
-                  <p>70, Gandhi Bazaar</p>
-                  <p>Basavanagudi, Bangalore, Pin - 560 004</p>
+                  <p className="font-medium">Office</p>
+                  <p>6A, 60, TM Maistry St, Extn</p>
+                  <p>Thiruvanmiyur, Chennai, Tamil Nadu 600041</p>
                 </div>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-5 w-5 text-white/60" />
                 <a
-                  href="mailto:info@greenbrooktechnologies.net"
+                  href="mailto:info@yespanchi.com"
                   className="text-sm text-white/80 hover:text-white transition-colors"
                 >
-                  info@greenbrooktechnologies.net
+                  info@yespanchi.com
                 </a>
               </div>
             </div>
